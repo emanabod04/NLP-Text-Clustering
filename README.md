@@ -1,5 +1,5 @@
 # NLP-Text-Clustering
-Abstract:
+**Abstract**:
 Text clustering is the task of grouping a set of unlabeled texts in such a 
 way that texts in the same cluster are more similar to each other than to 
 those in other clusters. Having a number of documents extracted from 
